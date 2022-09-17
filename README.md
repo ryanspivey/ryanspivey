@@ -1,7 +1,7 @@
-🐒 **Hi, I'm Ryan! A Fullstack Developer!** 🐒
+🐒 **Hi, I'm Ryan!** 🐒
 
-|🧑‍💻 Employment|Backend Software Developer @ C Spire |
+|🧑‍💻 Employment|Software Developer @ C Spire |
 |-----------------|--|
-|**📖 Currently Learning**|Spring Boot, Scala, & Functional Programming Techniques |
+|**📖 Learning**| Scala |
 |**📩 Contact Me**|**ryanL.spivey@gmail.com**  |
 |**<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="drawing" width="20"/> LinkedIn**|**[ryan-L-spivey](https://www.linkedin.com/in/ryan-l-spivey/)**  |
